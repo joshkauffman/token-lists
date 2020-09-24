@@ -1,5 +1,5 @@
 {
-  "name": "My Token List",
+  "name": "Josh",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
     "audited",
@@ -16,29 +16,37 @@
       "description": "Tokens that earn interest on compound.finance"
     }
   },
-  "timestamp": "2020-06-12T00:00:00+00:00",
+  "timestamp": "2020-09-25T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "symbol": "USDC",
-      "name": "USD Coin",
-      "decimals": 6,
+      "chainId": 3,
+      "address": "0xb8afa6ab32996ad67b672da793d7908ff063a0d0",
+      "symbol": "CSW",
+      "name": "CragiWright",
+      "decimals": 18,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
-        "stablecoin"
-      ]
+       ]
     },
     {
-      "chainId": 1,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-      "symbol": "cUSDC",
-      "name": "Compound USD Coin",
-      "decimals": 8,
+      "chainId": 3,
+      "address": "0xd24af825e38495ee362466f214946cdf53aab8c8",
+      "symbol": "JOHNY",
+      "name": "Johny7",
+      "decimals": 18,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
-        "compound"
-      ]
+       ]
+    }
+     {
+      "chainId": 3,
+      "address": "0x7d97ba95dac25316b9531152b3baa32327994da8",
+      "symbol": "STEPD",
+      "name": "TheStepD",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "tags": [
+       ]
     }
   ],
   "version": {
